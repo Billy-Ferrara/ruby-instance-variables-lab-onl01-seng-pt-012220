@@ -8,4 +8,4 @@ def name
 end
 end
 
-Lassie
+lassie = 
