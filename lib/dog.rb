@@ -8,4 +8,4 @@ def name
 end
 end
 
-lassie = 
+lassie = Dog.new 
