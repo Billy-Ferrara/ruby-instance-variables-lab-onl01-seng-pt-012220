@@ -9,4 +9,5 @@ end
 end
 
 lassie = Dog.new 
-lassie.name = 
+lassie.name = "Lassie"
+
